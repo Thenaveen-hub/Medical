@@ -46,15 +46,15 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
 
 4. You can then run this web-application on your Tomcat server --version 9.0 preferred.
    
-5. Run The _index1.jsp_ File and see the magic
-
-   ## Issues that proposed system overcomes-
-   - It is digital system rather than paper based.
-   - Inappropriate data keeping (receptionist used register for patients entry and doctor used prescription pad).
-   - Time wastage in data storage and retrieval.
-   - Human error possibility in maintainance.
-   - Patient's were unable to understand prescriptions due to handwriting issue.
-   - Durability issues (data may lost if prescriptions goes missing).
+5. Run The "_index1.jsp_"  File and see the magic
+  
+  > ## Issues that proposed system overcomes-
+  - It is digital system rather than paper based.
+  - Inappropriate data keeping .
+  - Time wastage in data storage and retrieval.
+  - Human error possibility in maintainance.
+  - Patient's were unable to understand prescriptions due to handwriting issue.
+  - Durability issues (data may lost if prescriptions goes missing).
 
 
 ## Snapshots-
