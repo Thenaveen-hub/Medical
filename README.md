@@ -60,24 +60,31 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
 ## Snapshots-
 
 **1. Homepage**
+
 ![Home Page](https://github.com/Thenaveen-hub/Medical/assets/140473308/2c0676ab-b466-4b89-bf6c-a7d230985ade)
 
-**2. User Login **
+**2. User Login**
+
 ![Screenshot (90)](https://github.com/Thenaveen-hub/Medical/assets/140473308/68c87eb2-f806-44fb-a0c4-794aa8365da7)
 
-**3. About us  **
+**3. About us**
+
 ![about](https://github.com/Thenaveen-hub/Medical/assets/140473308/b8101938-ce29-4529-8962-2b0a7e57d023)
 
-**4. User Homepage   **
+**4. User Homepage**
+
 ![Screenshot (91)](https://github.com/Thenaveen-hub/Medical/assets/140473308/bb24e7b5-2fb9-4321-8a43-5579ebb50ec1)
 
-**5. Appointment page   **
+**5. Appointment page**
+
 ![Appointment](https://github.com/Thenaveen-hub/Medical/assets/140473308/7d589a40-d968-48b9-995d-ec5c0d421ee7)
 
-**6. Previous Appointment  **
+**6. Previous Appointment**
+
 ![prevAppoint](https://github.com/Thenaveen-hub/Medical/assets/140473308/fba115fe-1df0-4d26-83f0-1816f20538c3)
 
-**7. patient Details page  **
+**7. patient Details page**
+
 ![Screenshot (96)](https://github.com/Thenaveen-hub/Medical/assets/140473308/461cd4be-60fb-482a-9e5a-cc33112de5dd)
 
 _IF Any Queries Mail me ! @ hellonaveen21@gmail.com_
